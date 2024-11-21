@@ -60,3 +60,7 @@ The database schema includes essential fields such as:
 
 ### **In Summary**
 This project exemplifies a seamless integration of **web scraping**, **database management**, and **interactive web application development**. By automating data extraction, efficiently storing and managing it in a database, and providing a user-friendly Streamlit app, it addresses the needs of travel aggregators, researchers, and customers alike. This solution is impactful for the transportation sector, enabling real-time analysis, enhanced customer service, and market competitiveness.
+
+![Screenshot 2024-11-21 122115](https://github.com/user-attachments/assets/513adb2a-3023-4ac4-97f5-012c734bba44)
+![Screenshot 2024-11-21 122131](https://github.com/user-attachments/assets/06b92bb1-4a34-4aed-929a-aa867b191c2b)
+
